@@ -1,0 +1,1 @@
+Agustsson, Eirikur & Timofte, Radu. (2017). NTIRE 2017 Challenge on Single Image Super-Resolution: Dataset and Study. 1122-1131. 10.1109/CVPRW.2017.150. 
